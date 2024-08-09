@@ -9,6 +9,7 @@ The analysis covered multiple aspects of the dataset, delving into both general 
 ## Key Components
 
 **Data Preparation**  
+- Combined five different datasets and sorted them based on date to ensure a cohesive and chronological dataset for analysis.  
 - Detailed steps taken to clean and preprocess the data for accurate analysis and forecasting.
 
 **Exploratory Data Analysis (EDA)**  
@@ -35,6 +36,7 @@ The analysis covered multiple aspects of the dataset, delving into both general 
 
 **Advanced Analysis Techniques**  
 - Use of smoothing techniques to understand long-term trends.  
+- Analysis of forecast error variance (FEVD) to identify the contribution of each product family to the overall forecast.  
 - Visualization of forecast uncertainty using fancharts.
 
 **Conclusions and Insights**  
