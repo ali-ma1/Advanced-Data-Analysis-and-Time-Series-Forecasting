@@ -36,7 +36,6 @@ The analysis covered multiple aspects of the dataset, delving into both general 
 
 **Advanced Analysis Techniques**  
 - Use of smoothing techniques to understand long-term trends.  
-- Analysis of forecast error variance (FEVD) to identify the contribution of each product family to the overall forecast.  
 - Visualization of forecast uncertainty using fancharts.
 
 **Conclusions and Insights**  
